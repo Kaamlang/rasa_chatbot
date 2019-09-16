@@ -1,0 +1,151 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": []
+    },
+    "utter_moreinfo": {
+      "slots": []
+    },
+    "utter_deny2": {
+      "slots": []
+    },
+    "utter_scholarship": {
+      "slots": []
+    },
+    "utter_greet_qsn": {
+      "slots": []
+    },
+    "utter_3rdsem": {
+      "slots": []
+    },
+    "utter_course_cost": {
+      "slots": []
+    },
+    "utter_universitydetail": {
+      "slots": []
+    },
+    "utter_extra": {
+      "slots": []
+    },
+    "utter_collegename": {
+      "slots": []
+    },
+    "utter_1stsem": {
+      "slots": []
+    },
+    "utter_ok": {
+      "slots": []
+    },
+    "utter_start_begin": {
+      "slots": []
+    },
+    "utter_thanking": {
+      "slots": []
+    },
+    "utter_goodbye": {
+      "slots": []
+    },
+    "utter_sorry": {
+      "slots": []
+    },
+    "utter_futurescope": {
+      "slots": []
+    },
+    "utter_name": {
+      "slots": []
+    },
+    "utter_admission_cost": {
+      "slots": []
+    },
+    "utter_discount": {
+      "slots": []
+    },
+    "utter_greet": {
+      "slots": []
+    },
+    "utter_course": {
+      "slots": []
+    },
+    "utter_education_event": {
+      "slots": []
+    },
+    "utter_1course": {
+      "slots": []
+    },
+    "utter_query": {
+      "slots": []
+    },
+    "utter_3course_cost": {
+      "slots": []
+    },
+    "utter_semfee": {
+      "slots": []
+    },
+    "utter_affiliation": {
+      "slots": []
+    },
+    "utter_duration": {
+      "slots": []
+    },
+    "utter_superdeny": {
+      "slots": []
+    },
+    "utter_2ndsem": {
+      "slots": []
+    },
+    "utter_3course": {
+      "slots": []
+    },
+    "utter_deny": {
+      "slots": []
+    },
+    "utter_specific": {
+      "slots": []
+    },
+    "utter_2course": {
+      "slots": []
+    },
+    "utter_6thsem": {
+      "slots": []
+    },
+    "utter_lab": {
+      "slots": []
+    },
+    "utter_4thsem": {
+      "slots": []
+    },
+    "utter_2course_cost": {
+      "slots": []
+    },
+    "utter_5thsem": {
+      "slots": []
+    },
+    "utter_1course_cost": {
+      "slots": []
+    },
+    "utter_course_query": {
+      "slots": []
+    },
+    "utter_university_name": {
+      "slots": []
+    }
+  },
+  "python": "3.6.7",
+  "max_histories": [
+    5,
+    null,
+    5,
+    2
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.keras_policy.KerasPolicy",
+    "rasa_core.policies.fallback.FallbackPolicy",
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.form_policy.FormPolicy"
+  ],
+  "trained_at": "20190512-132302",
+  "rasa_core": "0.13.8",
+  "tensorflow": "1.12.2",
+  "sklearn": "0.20.3"
+}

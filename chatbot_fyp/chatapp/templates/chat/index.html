@@ -1,0 +1,153 @@
+{% extends 'partials/base.html' %}
+
+{% block title %} Everest College {% endblock %}
+
+{% load static %}
+
+{% block content %}
+	<!-- Home -->
+	<div class="hero-area" style="height: 640px;">
+		<!-- Backgound Image -->
+		<div class="bg-image bg-parallax overlay" style="background-image:url(./static/img/home-background.jpg)"></div>
+		<!-- /Backgound Image -->
+
+		<div class="home-wrapper">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8">
+						<h1 class="white-text">Everest college</h1>
+						<p class="lead white-text">"Where you can identify and enhance your true potential."</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /Home -->
+
+	<!-- About -->
+	<div id="about" class="section" style="height: 570px;">
+		<!-- container -->
+		<div class="container" style="margin-top: -50px;">
+			<!-- row -->
+			<div class="row">
+				<div class="col-md-6">
+					<div class="section-header" style="margin-bottom: 70px;">
+						<h2>Welcome to Everest college</h2>
+					</div>
+
+					<!-- feature -->
+					<div class="feature" style="padding: 3px 0 20px 0;">
+						<i class="feature-icon fa fa-flask"></i>
+						<div class="feature-content">
+							<h4>Offered Courses </h4>
+							<p>We offer courses that enhance your skills and knowledge.</p>
+						</div>
+					</div>
+					<!-- /feature -->
+
+					<!-- feature -->
+					<div class="feature">
+						<i class="feature-icon fa fa-users"></i>
+						<div class="feature-content">
+							<h4>Expert Teachers</h4>
+							<p>We have professional and well experienced teachers and industrail experts to guide you on the path.</p>
+						</div>
+					</div>
+					<!-- /feature -->
+
+				</div>
+
+				<div class="col-md-6">
+					<div class="about-img">
+						<img src="./static/img/about.png">
+					</div>
+				</div>
+			</div>
+			<!-- row -->
+		</div>
+		<!-- container -->
+	</div>
+	<!-- /About -->
+
+	<!-- Courses -->
+	<div id="courses" class="section" style="height: 520px;">
+
+		<!-- container -->
+		<div class="container" style="margin-top: -40px;">
+
+			<!-- row -->
+			<div class="row">
+				<div class="section-header text-center">
+					<h2>Courses Offered</h2>
+					<p class="lead">We are offering course that helps enhancing your knowledge.</p>
+				</div>
+			</div>
+			<!-- /row -->
+
+			<!-- courses -->
+			<div id="courses-wrapper">
+				<!-- row -->
+				<div class="row">
+					<!-- single course -->
+					<div class="col-md-3 col-sm-6 col-xs-6" style="margin-left: 430px;">
+						<div class="course">
+							<a class="course-img" href="course/">
+								<img src="./static/img/course01.jpg" alt="course_img">
+							</a>
+							<a class="course-title" href="course/">Bachelor's in Information Technology (BIT).</a>
+							<div class="course-details">
+								<span class="course-category">Information Technology</span>
+							</div>
+						</div>
+					</div>
+					<!-- /single course -->
+				</div>
+				<!-- /row -->
+			</div>
+			<!-- /courses -->
+
+		</div>
+		<!-- container -->
+
+	</div>
+	<!-- /Courses -->
+
+	<!-- Contact CTA -->
+	<div id="contact-cta" class="section">
+
+		<!-- Backgound Image -->
+		<div class="bg-image bg-parallax overlay" style="background-image:url(./static/img/cta2-background.jpg)"></div>
+		<!-- Backgound Image -->
+
+		<!-- container -->
+		<div class="container">
+
+			<!-- row -->
+			<div class="row">
+
+				<div class="col-md-8 col-md-offset-2 text-center">
+					<h2 class="white-text">Contact Us</h2>
+					<p class="lead white-text">Please contact us for more information.</p>
+					<a class="main-button icon-button" href="/contact/">Contact Us Now</a>
+				</div>
+
+			</div>
+			<!-- /row -->
+
+		</div>
+		<!-- /container -->
+
+	</div>
+	<!-- /Contact CTA -->
+
+	<!-- Footer -->
+	<footer style="height: 70px; margin-top: -15px;	">
+			<!-- row -->
+			<div id="bottom-footer" class="row" style="float: center; text-align: center; color: black;">
+				<span>&copy; Copyright 2019. All Rights Reserved. | Everest College</span>
+			</div>
+			<!-- row -->
+
+	</footer>
+	<!-- /Footer -->
+{% endblock %}

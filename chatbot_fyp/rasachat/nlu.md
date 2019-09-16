@@ -1,0 +1,1919 @@
+## intent:start_begin
+- start_begin
+
+## intent:greet
+- hey
+- hello
+- hi
+- hi friend
+- hi there it's me
+- hiii
+- heyho
+- hey, let's talk
+- hey let's talk
+- hey dude
+- hello it is me again
+- what up
+- hi there
+- howdy
+- Hellllooooooo
+- whats up
+- Hei
+- Well hello there ;)
+- I said, helllllloooooO!!!!
+- hello friend
+- good morning
+- hii
+- hello sweet boy
+- yoo
+- hey there
+- hiihihi
+- hello sweatheart
+- hellooo
+- helloooo
+- heyo
+- ayyyy whaddup
+- hello?
+- Hallo
+- heya
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+
+## intent:greet_qsn
+- how are you?
+- how are you doing?
+- how is it going?
+- are you fine?
+- you fine?
+- you doing great?
+- doing great?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- how do you do?
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how is your evening
+- How was your day?
+- How's it going
+- How's it hanging?
+- how's life
+- how's life been treating you?
+- How's life treating you friend?
+- how's your day going
+- How've you been?
+- I'm fine and you
+- is everything all right
+- Is everything ok?
+- is everything okay
+- what about your day
+- What's going on?
+- what's good
+- What's new?
+- What's up man
+- What's up
+- how are you?
+- Do you have a great day?
+- how are you doing today my sweet friend
+- how are you doing?
+- how are u
+- How are you?
+
+## intent:greet_reply
+- fine
+- cool
+- awesome
+- great
+- good
+- fine doing great
+- awesome
+- cool doing great
+- amazing
+- great
+- good
+- fine, what about you?
+- awesome, what about you?
+- cool, what about you?
+- fine, you?
+- awesome, you?
+- cool, you?
+- amazing, you?]
+- awesome and you?
+- cool and you?
+
+## intent:goodbye
+- bye
+- bye bye
+- seeya
+- see ya
+- see you
+- goodbye
+- good bye
+- leaving
+- heading out
+- got to go
+- going out
+- take care
+- see you later
+- see you around
+- talk to you later
+- goodbye
+- goodnight
+- good bye
+- good night
+- see ya
+- toodle-oo
+- bye bye
+- gotta go
+- farewell
+- catch you later
+- bye for now
+- bye
+- bye was nice talking to you
+- have a nice time
+- have a nice day
+
+## intent:thanking
+- thankyou
+- thank you
+- I really appreciate your help
+- thank you for your help
+- thanks 
+- Thanks
+- Thank you
+- Thank you so much
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+- thanks
+- thanks!
+- Cool. Thanks
+- thanks
+- thanks this is great news
+- thank you
+- great thanks
+- Thanks!
+- cool thanks
+
+## intent:sorry
+- i'm sorry
+- sorry
+- i beg a pardon
+- pardon
+- forgive me
+- really sorry
+- sorry
+- i feel sorry
+- will you forgive me
+
+## intent:deny
+- no
+- not fine
+- not feeling well
+- feeling bad
+- worst
+- no good
+- not good
+- not good at all
+- condition is worst
+- condition is worse
+- worse
+- terrible
+- disastrous
+- stressed
+- stressful
+- depressed
+- down 
+- low
+- sick
+- dizzy
+- nausious
+- why bother answering to you
+- why should i listen to you
+- i won't annoy you tell my condition
+- i won't tell you
+- not necessary to tell
+- i won't talk to you
+- no need to talk
+- i don't think it is necessary
+
+## intent:superdeny
+- i don't want to know about your college
+- don't want any info
+- don't want any information
+- who cares about your college
+- i won't hear you
+- no info about college course
+- don't tell me about course cost
+- don't tell me about fee
+- i'm fed up with your information
+- i don't want to hear about admission
+- i don't need stupid scholarship
+- nobody need your schoalarship
+- who cares about university
+- who cares about college
+- who cares about discount
+- who cares about scholarship
+- i don't care about event
+- i don't care about events
+- who would bother asking about labs
+- i already know all this stuff so you don't have to tell me
+- i already know all these things so you don't have to tell me
+- i don't want admission
+- i don't want enrollment
+
+## intent:ok
+- ok
+- yeah
+- yaah
+- yah
+- oky
+- okay
+- OK
+- oku
+- yaa
+- ya
+- yaaa
+
+## intent:name
+- what is your name?
+- name?
+- your name
+- what can I call you?
+- how can I type your name?
+- spelling of your name
+- how to spell your name
+- tell me your name
+- introduce yourself
+- can you introduce about you
+- i want to hear you introduce yourself
+- i want to know more about you
+- i want to know you more
+- i want to know you personally
+
+## intent:collegename
+- what is the name of your college?
+- what's the college name?
+- college name
+- name of your college
+- tell me your college name
+- can you introduce your college
+- introduction of your college
+- i want to know your college name
+
+## intent:address
+- tell me address of your college
+- address
+- location
+- tell me address
+- tell me your adress
+- where is your college located
+- college location
+- how can I find your college
+- where to find your college
+- where is it
+- where is everst college
+
+## intent:university_name
+- what is the name of university
+- name of your university
+- university name
+- what is the name of university you college has bachelor agreement
+- tell me the name of your university
+- what is name of your university
+- what's your university name
+- what's the name of your university
+
+## intent:universitydetail
+- tell me about your [university](uniname)
+- can you provide [info](info) about your [university](uniname)
+- can you give [information](info) about [university](uniname)
+- [information](info) about [university](uniname) 
+- [university](uniname) [detail](info)
+- i want to know about [university](uniname)
+- i want to know more about Bagmati
+- [info](info) about [university](uniname)
+- tell me about Bagmati
+- tell me more of [university](uniname)
+
+## intent:admission_cost
+- [admission](admit) [fee](cost)
+- [enrollment](admit) [cost](cost)
+- information related to [admission](admit) [cost](cost)
+- I want to know about [enrollment](admit) [fee](cost)
+- tell me about [entry](admit) [fee](cost)
+- can I know about [admission](admit) [fee](cost)
+- information related to [admission](admit) [cost](cost)
+- I want to know about [admission](admit) [cost](cost)
+- tell me about [enrollment](admit) [cost](cost)
+- can I know about [admission](admit) [cost](cost)
+- how much does it [cost](cost) for [admission](admit)
+- what about [entry](admit) [cost](cost)
+- what about [admission](admit) [cost](cost)
+- eager to know [admission](admit) [cost](cost)
+- eager to know [admission](admit) [cost](cost)
+- about [admission](admit) [cost](cost)
+- about [admission](admit) [cost](cost)
+- [admission](admit) [cost](cost)
+- [admission](admit) [cost](cost)
+- I want to know about [entry](admit) [fee](cost)
+- tell me about [admission](admit) [cost](cost)
+- can I know about [admission](admit) [cost](cost)
+
+## intent:admission_req
+- [admission](admit) [criteria](criteria)
+- information related to [enrollment](admit) [process](criteria)
+- I want to know about [admission](admit) [requirement](criteria)
+- I want to know about [admission](admit) [requirements](criteria)
+- tell me about [admitted](admit) [criteria](criteria)
+- can I know about [entry](admit) [procedure](criteria)
+- how can I get [admission](admit)
+- I want [entry](admit)
+- I want [admission](admit) in this college
+- I want [enrollment](admit) in this college
+- how to get [enrollment](admit)
+- how to [enroll](admit)
+- how to [admit](admit)
+- [enroll](admit)
+- [admission](admit)
+- [admission](admit) [requirements](criteria)
+- [enrollment](admit)
+- [enrollment](admit) [procedure](criteria)
+- [enrollment](admit) [procedures](criteria)
+- eager to know about [admission](admit)
+- got desire to know about [enrollment](admit) [criteria](criteria)
+- I want to get [admitted](admit)
+- I want to get [enrolled](admit) in your college
+- [qualification](criteria) to get [enrollment](admit)
+- am I qualified to get an [admission](admit)
+- what should be my [qualification](criteria)
+- my required [qualification](criteria)
+- [admission](admit) [qualification](criteria)
+- [enrollment](admit) [procedure](criteria)
+- [enrollment](admit) [way](criteria)
+- am I eligible for an [enrollment](admit)
+- am I qualified for an [admission](admit)
+- qualified for [enrollment](admit)
+
+## intent:deadline
+- admission deadline
+- deadline for admission
+- when is the deadline for admission
+- last date of admission
+- date of admission
+- admission date
+- date for admission
+- when should I get admission
+- interested in admission
+- enrollment deadline
+- deadline for enrollment
+- when is the deadline for enrollment
+- last date of enrollment
+- date of enrollment
+- enrollment date
+- date for enrollment
+- when should I get enrollment
+- interested in enrollment
+- tell me the start and end of admission
+- when will the admission end
+- when will the admission close
+- admission close?
+- is admission still open
+- is admission still going on
+- upto when you take admission
+- tell me the start and end of enrollment
+- when will the enrollment end
+- when will the enrollment close
+- enrollment close?
+- is enrollment still open
+- is enrollment still going on
+- upto when you take enrollment
+
+## intent:query
+- do you offer [bachelor](bachelor) ?
+- do you offer [bachelor](bachelor) degree [program](program) ?
+- tell me about [bachelor](bachelor) [program](program) in your college
+- want to know if you have [bachelor](bachelor) [program](program) in your college
+- is [bachelor](bachelor) offered here
+- is [bachelor](bachelor) [program](program) offered here
+- eager to know about [bachelor](bachelor) [program](program)
+- eager to know about [bachelor](bachelor)
+- tell me about [bachelor](bachelor) [program](program)
+- what [program](program) do you offer?
+
+## intent:course
+- tell me about BIT
+- I want to know about BIT
+- provide me information about BIT
+- BIT
+- information about BIT
+- info about BIT
+- [course](course) taught
+- [course](course) [available](offered)
+- what are the [course](course)
+- list of [course](course)
+- [course](course) taught in bachelor
+- which [bachelor](bachelor) [course](course) is [offered](offered) by the college?
+- which [bachelor](bachelor) degree [program](course) is [offered](offered) by the college?
+- currently [running](offer) [course](course)
+- which [program](course) is currently being runned in college?
+- which [course](course) are currently being runned in college?
+- [course](course) [available](offered) 
+- [courses](course) [offered](offered) by the college
+- [bachelor](bachelor) [program](course) runned by college
+- college [bachelor](bachelor) [course](course)
+- runned [bachelor](bachelor) [program](course)
+- operated [program](program) in [bachelor](course)
+- currently [running](offered) [course](course)
+- currently [running](offered) [bachelor](bachelor) degree [program](course)
+- current [bachelor](bachelor) [program](course)
+- [bachelor](bachelor) degree [program](course)
+- information related to [offered](offered) [course](course)
+- [course](course) taught
+- eager to know about [course](course) [offered](offered)
+- eager to know about [course](course) 
+- tell me about [course](course) [offered](offered) in [bachelor](bachelor)
+- [courses](course) taught
+- what are the [courses](course)
+- list of [courses](course)
+- [courses](course) taught in bachelor
+- which [bachelor](bachelor) [courses](course) is [availabe](offered) by the college?
+- which [bachelor](bachelor) degree [programs](course) is [offered](offered) by the college?
+- currently [running](offer) [courses](course)
+- which [programs](course) is currently being runned in college?
+- which [courses](course) are currently being runned in college?
+- [courses](course) [availabe](offered) 
+- [courses](course) [availabe](offered) by the college
+- [bachelor](bachelor) [programs](course) runned by college
+- college [bachelor](bachelor) [courses](course)
+- runned [bachelor](bachelor) [programs](course)
+- operated [programs](program) in [bachelor](course)
+- currently [running](offered) [courses](course)
+- currently [running](offered) [bachelor](bachelor) degree [programs](course)
+- current [bachelor](bachelor) [programs](course)
+- [bachelor](bachelor) degree [programs](course)
+- information related to [offered](offered) [courses](course)
+- eager to know about [courses](course) [offered](offered)
+- eager to know about [courses](course) 
+- tell me about [courses](course) [offered](offered) in [bachelor](bachelor)
+
+## intent:1course
+- [courses](subject)
+- what [subject](subject) are there in [first](year) year?
+- list of [1st](year) year [course](subject)
+- [first](year) year [module](subject)
+- how many [subject](subject) are there in [first](year) year?
+- how many [module](subject) are to be studied in [first](year) year?
+- [subject](subject) in [1st](year) year
+- what [course](subject) are [offered](offered) in [1st](year) year?
+- [first](year) year [module](subject) [offered](offered)
+- [subject](subject) [available](offered) in [first](year) year
+- what [module](subject) are there in [first](year) year?
+- [first](year) year [module](subject)
+- how many [course](subject) are there in [first](year) year?
+- how many [module](subject) are to be studied in [first](year) year?
+- [course](subject) in [first](year) year
+- [subject](subject) [offered](offered) are there in [1st](year) year?
+- list of [1st](year) year [module](subject) [offered](offered)
+- list of [first](year) year [module](subject)
+- [1st](year) year [subject](subject)
+- [first](year) year [subject](subject) list
+- how many [course](subject) are there in [first](year) year?
+- how many [subject](subject) are to be studied in [1st](year) year?
+- [module](subject) in [first](year) year
+- what [subject](subject) are [offered](offered) in [first](year) year?
+- list of [1st](year) year [course](subject) [offered](offered)
+- [first](year) year [subject](subject) [offered](offered)
+- what [subject](subject) are there in [1st](year) year?
+- list of [1st](year) year [module](subject)
+- [1st](year) year [course](subject)
+- [1st](year) year [subject](subject) list
+- how many [course](subject) are there in [first](year) year?
+- how many [subject](subject) are to be studied in [first](year) year?
+- [module](subject) in [1st](year) year
+- list of [first](year) year [subject](subject) [available](offered)
+- [first](year) year [course](subject) [offered](offered)
+- how many [module](subject) are [offered](offered) in [first](year) year?
+- [subject](subject) [offered](offered) in [first](year) year
+- what are the [subject](subject) [offered](offered) in [1st](year) year
+- [offered](offered) [module](subject) in [1st](year) year
+- tell me about [first](year) year [course](subject)
+- tell me about [first](year) year [subject](subject) [offered](offered)
+- what about the [module](subject) [offered](offered) in [first](year) year
+- eager to know about [course](subject) in [first](year) year
+- eager to know about [subject](subject) in [first](year) year
+- eager to know about [course](subject) in [first](year) year
+- what [subjects](subject) are there in [first](year) year?
+- list of [1st](year) year [course](subject)
+- [first](year) year [modules](subject)
+- how many [subjects](subject) are there in [first](year) year?
+- how many [modules](subject) are to be studied in [first](year) year?
+- [subjects](subject) in [1st](year) year
+- what [course](subject) are [offered](offered) in [1st](year) year?
+- [first](year) year [modules](subject) [offered](offered)
+- [subjects](subject) [offered](offered) in [first](year) year
+- what [modules](subject) are there in [first](year) year?
+- [first](year) year [modules](subject)
+- how many [course](subject) are there in [first](year) year?
+- how many [modules](subject) are to be studied in [first](year) year?
+- [course](subject) in [first](year) year
+- [subjects](subject) [offered](offered) are there in [1st](year) year?
+- list of [1st](year) year [modules](subject) [available](offered)
+- list of [first](year) year [modules](subject)
+- [1st](year) year [subjects](subject)
+- [first](year) yr [modules](subject)
+- how many [course](subject) are there in [first](year) yr?
+- how many [modules](subject) are to be studied in [first](year) yr?
+- [course](subject) in [first](year) yr
+- what [subjects](subject) [offered](offered) are there in [1st](year) year?
+- list of [1st](year) yr [modules](subject) [offered](offered)
+- list of [first](year) yr [modules](subject)
+- [1st](year) yr [subjects](subject)
+- [first](year) yr [subjects](subject) list
+- how many [course](subject) are there in [first](year) yr?
+- how many [subjects](subject) are to be studied in [1st](year) yr?
+- [modules](subject) in [first](year) yr
+- what [subjects](subject) are [offered](offered) in [first](year) yr?
+- list of [1st](year) yr [course](subject) [offered](offered)
+- [first](year) yr [subjects](subject) [offered](offered)
+- what [subjects](subject) are there in [1st](year) yr?
+- list of [1st](year) yr [modules](subject)
+- [1st](year) yr [course](subject)
+- [1st](year) yr [subjects](subject) list
+- how many [course](subject) are there in [first](year) yr?
+- how many [subjects](subject) are to be studied in [first](year) yr?
+- [modules](subject) in [1st](year) yr
+- list of [first](year) yr [subjects](subject) [offered](offered)
+- [first](year) yr [course](subject) [available](offered)
+- how many [modules](subject) are [offered](offered) in [first](year) yr?
+- [subjects](subject) [available](offered) in [first](year) yr
+- what are the [subjects](subject) [offered](offered) in [1st](year) yr
+- [offered](offered) [modules](subject) in [1st](year) yr
+- tell me about [first](year) yr [course](subject)
+- tell me about [first](year) yr [subjects](subject) [available](offered)
+- what about the [modules](subject) [available](offered) in [first](year) yr
+- eager to know about [course](subject) in [first](year) yr
+- eager to know about [subjects](subject) in [first](year) yr
+- eager to know about [course](subject) in [first](year) yr
+
+## intent:2course
+- what [subject](subject) are there in [second](year) year?
+- list of [2nd](year) year [course](subject)
+- [available](offered) [second](year) year [module](subject)
+- how many [subject](subject) are there in [second](year) year?
+- how many [module](subject) are to be studied in [second](year) year?
+- [subject](subject) in [2nd](year) year
+- what [course](subject) are [offered](offered) in [2nd](year) year?
+- [second](year) year [module](subject) [offered](offered)
+- [subject](subject) [offered](offered) in [second](year) year
+- what [module](subject) are there in [second](year) year?
+- [second](year) year [module](subject)
+- how many [course](subject) are there in [second](year) year?
+- how many [module](subject) are to be studied in [second](year) year?
+- [course](subject) in [second](year) year
+- what [subject](subject) [offered](offered) are there in [2nd](year) year?
+- list of [2nd](year) year [module](subject) [available](offered)
+- list of [second](year) year [module](subject)
+- [2nd](year) year [subject](subject)
+- [second](year) year [subject](subject) list
+- how many [course](subject) are there in [second](year) year?
+- how many [subject](subject) are to be studied in [2nd](year) year?
+- [module](subject) in [second](year) year
+- what [subject](subject) are [offered](offered) in [second](year) year?
+- list of [2nd](year) year [course](subject) [offered](offered)
+- [second](year) year [subject](subject) [offered](offered)
+- what [subject](subject) are there in [2nd](year) year?
+- list of [2nd](year) year [module](subject)
+- [2nd](year) year [course](subject)
+- [2nd](year) year [subject](subject) list
+- how many [course](subject) are there in [second](year) year?
+- how many [subject](subject) are to be studied in [second](year) year?
+- [module](subject) in [2nd](year) year
+- list of [second](year) year [subject](subject) [offered](offered)
+- [second](year) year [course](subject) [offered](offered)
+- how many [module](subject) are [offered](offered) in [second](year) year?
+- [subject](subject) [offered](offered) in [second](year) year
+- what are the [subject](subject) [offered](offered) in [2nd](year) year
+- [offered](offered) [module](subject) in [2nd](year) year
+- tell me about [second](year) year [course](subject)
+- tell me about [second](year) year [subject](subject) [available](offered)
+- what about the [module](subject) [offered](offered) in [second](year) year
+- eager to know about [course](subject) in [second](year) year
+- eager to know about [subject](subject) in [second](year) year
+- eager to know about [course](subject) in [second](year) year
+- what [subjects](subject) are there in [second](year) year?
+- list of [2nd](year) year [course](subject)
+- [second](year) year [modules](subject)
+- how many [subjects](subject) are there in [second](year) year?
+- how many [modules](subject) are to be studied in [second](year) year?
+- [subjects](subject) in [2nd](year) year
+- what [course](subject) are [available](offered) in [2nd](year) year?
+- [second](year) year [modules](subject) [available](offered)
+- [subjects](subject) [offered](offered) in [second](year) year
+- what [modules](subject) are there in [second](year) year?
+- [second](year) year [modules](subject)
+- how many [course](subject) are there in [second](year) year?
+- how many [modules](subject) are to be studied in [second](year) year?
+- [course](subject) in [second](year) year
+- what [subjects](subject) [offered](offered) are there in [2nd](year) year?
+- list of [2nd](year) year [modules](subject) [offered](offered)
+- list of [second](year) year [modules](subject)
+- [available](offered) [2nd](year) year [subjects](subject)
+- [second](year) yr [modules](subject)
+- how many [course](subject) are there in [second](year) yr?
+- how many [modules](subject) are to be studied in [second](year) yr?
+- [course](subject) in [second](year) yr
+- what [subjects](subject) [offered](offered) are there in [2nd](year) year?
+- list of [2nd](year) yr [modules](subject) [offered](offered)
+- list of [second](year) yr [modules](subject)
+- [2nd](year) yr [subjects](subject)
+- [second](year) yr [subjects](subject) list
+- how many [course](subject) are there in [second](year) yr?
+- how many [subjects](subject) are to be studied in [2nd](year) yr?
+- [modules](subject) in [second](year) yr
+- what [subjects](subject) are [offered](offered) in [second](year) yr?
+- list of [2nd](year) yr [course](subject) [offered](offered)
+- [second](year) yr [subjects](subject) [offered](offered)
+- what [subjects](subject) are there in [2nd](year) yr?
+- list of [2nd](year) yr [modules](subject)
+- [2nd](year) yr [course](subject)
+- [2nd](year) yr [subjects](subject) list
+- how many [course](subject) are there in [second](year) yr?
+- how many [subjects](subject) are to be studied in [second](year) yr?
+- [modules](subject) in [2nd](year) yr
+- list of [second](year) yr [subjects](subject) [offered](offered)
+- [second](year) yr [course](subject) [available](offered)
+- how many [modules](subject) are [offered](offered) in [second](year) yr?
+- [subjects](subject) [available](offered) in [second](year) yr
+- what are the [subjects](subject) [offered](offered) in [2nd](year) yr
+- [offered](offered) [modules](subject) in [2nd](year) yr
+- tell me about [second](year) yr [course](subject)
+- tell me about [second](year) yr [subjects](subject) [available](offered)
+- what about the [modules](subject) [available](offered) in [second](year) yr
+- eager to know about [course](subject) in [second](year) yr
+- eager to know about [subjects](subject) in [second](year) yr
+- eager to know about [course](subject) in [second](year) yr
+
+## intent:3course
+- what [subject](subject) are there in [third](year) year?
+- list of [3rd](year) yr [course](subject)
+- [available](offered) [3rd](year) year [course](subject)
+- [third](year) year [module](subject)
+- how many [subject](subject) are there in [third](year) year?
+- how many [module](subject) are to be studied in [third](year) year?
+- [subject](subject) in [3rd](year) year
+- what [course](subject) are [offered](offered) in [3rd](year) year?
+- [third](year) yr [module](subject) [available](offered)
+- [subject](subject) [offered](offered) in [third](year) year
+- what [module](subject) are there in [third](year) year?
+- [third](year) yr [module](subject)
+- how many [course](subject) are there in [third](year) year?
+- how many [module](subject) are to be studied in [third](year) year?
+- [course](subject) in [third](year) year
+- what [subject](subject) [available](offered) are there in [3rd](year) year?
+- list of [3rd](year) year [module](subject) [offered](offered)
+- list of [third](year) year [module](subject)
+- [3rd](year) year [subject](subject)
+- [third](year) year [subject](subject) list
+- how many [course](subject) are there in [third](year) year?
+- how many [subject](subject) are to be studied in [3rd](year) year?
+- [module](subject) in [third](year) year
+- what [subject](subject) are [available](offered) in [third](year) year?
+- list of [3rd](year) year [course](subject) [offered](offered)
+- [third](year) year [subject](subject) [offered](offered)
+- what [subject](subject) are there in [3rd](year) year?
+- list of [3rd](year) year [module](subject)
+- [3rd](year) year [course](subject)
+- [3rd](year) year [subject](subject) list
+- how many [course](subject) are there in [third](year) year?
+- how many [subject](subject) are to be studied in [third](year) year?
+- [module](subject) in [3rd](year) year
+- list of [third](year) year [subject](subject) [offered](offered)
+- [third](year) year [course](subject) [offered](offered)
+- how many [module](subject) are [offered](offered) in [third](year) year?
+- [subject](subject) [offered](offered) in [third](year) year
+- what are the [subject](subject) [offered](offered) in [3rd](year) year
+- [available](offered) [module](subject) in [3rd](year) year
+- tell me about [third](year) year [course](subject)
+- tell me about [third](year) year [subject](subject) [offered](offered)
+- what about the [module](subject) [offered](offered) in [third](year) year
+- eager to know about [course](subject) in [third](year) year
+- eager to know about [subject](subject) in [third](year) year
+- eager to know about [course](subject) in [third](year) year
+- what [subjects](subject) are there in [third](year) year?
+- list of [3rd](year) year [course](subject)
+- [third](year) year [modules](subject)
+- how many [subjects](subject) are there in [third](year) year?
+- how many [modules](subject) are to be studied in [third](year) year?
+- [subjects](subject) in [3rd](year) year
+- what [course](subject) are [offered](offered) in [3rd](year) year?
+- [third](year) year [modules](subject) [offered](offered)
+- [subjects](subject) [offered](offered) in [third](year) year
+- what [modules](subject) are there in [third](year) year?
+- [third](year) yr [modules](subject)
+- how many [course](subject) are there in [third](year) yr?
+- how many [modules](subject) are to be studied in [third](year) yr?
+- [course](subject) in [third](year) yr
+- what [subjects](subject) [offered](offered) are there in [3rd](year) year?
+- list of [3rd](year) yr [modules](subject) [offered](offered)
+- list of [third](year) yr [modules](subject)
+- [3rd](year) yr [subjects](subject)
+- [third](year) yr [subjects](subject) list
+- how many [course](subject) are there in [third](year) yr?
+- how many [subjects](subject) are to be studied in [3rd](year) yr?
+- [modules](subject) in [third](year) yr
+- what [subjects](subject) are [offered](offered) in [third](year) yr?
+- list of [3rd](year) yr [course](subject) [offered](offered)
+- [third](year) yr [subjects](subject) [offered](offered)
+- what [subjects](subject) are there in [3rd](year) yr?
+- list of [3rd](year) yr [modules](subject)
+- [3rd](year) yr [course](subject)
+- [3rd](year) yr [subjects](subject) list
+- how many [course](subject) are there in [third](year) yr?
+- how many [subjects](subject) are to be studied in [third](year) yr?
+- [modules](subject) in [3rd](year) yr
+- list of [third](year) yr [subjects](subject) [offered](offered)
+- [third](year) yr [course](subject) [available](offered)
+- how many [modules](subject) are [offered](offered) in [third](year) yr?
+- [subjects](subject) [available](offered) in [third](year) yr
+- what are the [subjects](subject) [offered](offered) in [3rd](year) yr
+- [offered](offered) [modules](subject) in [3rd](year) yr
+- tell me about [third](year) yr [course](subject)
+- tell me about [third](year) yr [subjects](subject) [available](offered)
+- what about the [modules](subject) [available](offered) in [third](year) yr
+- eager to know about [course](subject) in [third](year) yr
+- eager to know about [subjects](subject) in [third](year) yr
+- eager to know about [course](subject) in [third](year) yr
+
+## intent:scholarship
+- am I eligible to get scholarship
+- scholarship scheme availabe
+- who can get scholarship
+- how can we get scholarship
+- how can I get scholarship
+- scholarship program availabe
+- information about scholarship
+- I want scholarship
+- scholarship
+- scholarship availabe
+- scholarship policy
+- information related to scholarship
+- information related to scholarship policy
+- is there any scholarship provisions?
+- scholarship provisions
+- egar to know about scholarship
+- any scholarship availabe
+- what about scholarship
+- scholarship facility
+- facility of student scholarship
+- facility of scholarship availabe
+- facility of scholarship to student
+- scholarship
+- student scholarship availabe
+- availabe student scholarship
+- what about student scholarship
+- any scholarship program availabe
+- any scholarship provision
+- any scholarship provision for student
+- any student scholarship
+- availabe student scholarship
+- student scholarship provision
+- do this college provide scholarship
+- college provide scholarship
+- no. of scholarship given
+- no. of scholarship provided
+- number of scholarship
+- number of scholarship provided
+- am I eligible to get scholarships
+- scholarships scheme
+- who can get scholarships
+- how can we get scholarships
+- how can I get scholarships
+- scholarships program
+- information about scholarships
+- I want scholarships
+- scholarships
+- scholarships policy
+- information related to scholarships
+- information related to scholarships policy
+- is there any scholarships provisions?
+- scholarships provisions
+- egar to know about scholarships
+- any scholarships
+- what about scholarships
+- scholarships
+- scholarships facility
+- facility of student scholarships
+- facility of scholarships
+- facility of scholarships to student
+- scholarships
+- student scholarships
+- what about student scholarships
+- any scholarships program
+- any scholarships provision
+- any scholarships provision for student
+- any student scholarships
+- availabe student scholarships
+- student scholarships provision
+- do this college provide scholarships
+- college provide scholarships
+- no. of scholarships given
+- no. of scholarships provided
+- number of scholarships availabe
+- number of scholarships provided
+
+## intent:discount
+- am I eligible to get discount
+- discount scheme
+- who can get discount
+- how can we get discount
+- how can I get discount
+- discount program
+- information about discount
+- I want discount
+- discount
+- discount
+- discounts
+- discount policy
+- information related to discount
+- information related to discount policy
+- discount provision
+- provisions for discount
+- any discount provision for student
+- discount for new student
+- any discount for new student
+- tell me about discount provisions
+- tell me about discount policy
+- eager to know about discount
+- any student discount
+- student discount
+- student discount provision
+- what about discount for the student
+- any discount
+- what about student discount
+- tell me about student discount
+- no. of discount
+- number of discount
+- no. of discount provided by the college
+- no. of student discount
+- no. of student discount provied by the college
+- am I eligible to get discounts
+- discounts scheme
+- who can get discounts
+- how can we get discounts
+- how can I get discounts
+- discounts program
+- information about discounts
+- I want discounts
+- discounts
+- discounts
+- discountss
+- discounts policy
+- information related to discounts
+- information related to discounts policy
+- discounts provision
+- provisions for discounts
+- any discounts provision for student
+- discounts for new student
+- any discounts for new student
+- tell me about discounts provisions
+- tell me about discounts policy
+- eager to know about discounts
+- any student discounts
+- student discounts
+- student discounts provision
+- what about discounts for the student
+- any discounts
+- what about student discounts
+- tell me about student discounts
+- no. of discounts
+- number of discounts
+- no. of discounts provided by the college
+- no. of student discounts
+- no. of student discounts provied by the college
+
+## intent:affiliation
+- college affiliation
+- college's affiliation
+- from which university college has got affiliation
+- affiliation
+- in which university Everest college is affiliated to
+- in which university your college is affiliated to
+- in which university college is affiliated to
+- information related to your colleges affiliation
+- information related to colleges affiliation
+- information of affiliation of college
+- university affiliation
+- can you tell me about the college's affiliation
+- can you tell me from which university your college is affiliated
+- tell me about the college's affiliation
+- tell me from which university your college is affiliated
+- what about college affiliation
+- eager to know about affiliation
+- college affiliations
+- college's affiliations
+- from which university college has got affiliations
+- affiliations
+- in which university Everest college is affiliated to
+- in which university your college is affiliated to
+- in which university college is affiliated to
+- information related to your colleges affiliations
+- information related to colleges affiliations
+- information of affiliations of college
+- university affiliations
+- can you tell me about the college's affiliations
+- can you tell me from which university your college is affiliated
+- tell me about the college's affiliations
+- tell me from which university your college is affiliated
+- what about college affiliations
+- eager to know about affiliations
+
+## intent:duration
+- [course](course) [time](time)
+- how [long](time) will the [course](course) run for
+- I want to know about the [duration](time) of [course](course)
+- I want to know about the [course](course) [time](time)
+- [duration](time) of [course](course)
+- I want to know how [long](time) will the [course](course) run for
+- information about how [long](time) will the [course](course) run for
+- eager to know how [long](time) will the [course](course) run for
+- can you tell me how [long](time) will the [course](course) run for
+- can you tell me about [course](course) [time](time)
+- tell me about [duration](time) of [course](course)
+- tell me about [course](course) [time](time)
+- what about college [duration](time)
+- what about college [course](course) [duration](time)
+- college [course](course) [time](time)
+- estimate [time](time) taken for completion of [course](course)
+- completion [time](time) of [course](course)
+- [course](course) completion [duration](time)
+- [courses](course) [time](time)
+- how [long](time) will the [courses](course) run for
+- I want to know about the [duration](time) of [courses](course)
+- I want to know about the [courses](course) [time](time)
+- [duration](time) of [courses](course)
+- I want to know how [long](time) will the [courses](course) run for
+- information about how [long](time) will the [courses](course) run for
+- eager to know how [long](time) will the [courses](course) run for
+- can you tell me how [long](time) will the [courses](course) run for
+- can you tell me about [courses](course) [time](time)
+- tell me about [duration](time) of [courses](course)
+- tell me about [courses](course) [time](time)
+- what about college [duration](time)
+- what about college [courses](course) [duration](time)
+- college [courses](course) [time](time)
+- estimate [time](time) taken for completion of [courses](course)
+- completion [time](time) of [courses](course)
+- [courses](course) completion [duration](time)
+
+## intent:course_cost
+- college [fee](cost)
+- college [charge](cost)
+- college [charges](cost)
+- [course](course) [fee](cost) structure
+- [course](course) [fee](cost) structure of whole year
+- whole year [course](course) [cost](fee)
+- whole year fee
+- I want to know about the [cost](cost) structure
+- how much do it [cost](cost) for bachelor [course](course) 
+- how much do it [fee](cost) for complete [course](course) 
+- how much [fee](cost) will it take to complete bachelor [course](course)
+- [cost](cost) for 3 years [course](course)
+- cost of 3 years [course](course) 
+- [fee](cost) for three years [course](course) 
+- [charge](cost) of three years [course](course) 
+- what about the [fee](cost) of the [course](course)
+- what about the estimated [cost](cost) of the [course](course)
+- estimated [fee](cost) of the [course](course)
+- what about the [fee](cost) of the [course](course)
+- what about the estimated [fee](cost) of the [course](course)
+- estimated [charge](cost) of the [course](course)
+- tell me about the total estimated [fee](cost) of the whole [course](course)
+- college [fee](cost)
+- [courses](course) [fee](cost) structure
+- [courses](course) [charges](cost) structure of whole year
+- whole year [courses](course) [cost](fee)
+- whole year fee
+- I want to know about the [cost](cost) structure
+- how much do it [cost](cost) for bachelor [courses](course) 
+- how much do it [fee](cost) for complete [courses](course) 
+- how much [fee](cost) will it take to complete bachelor [courses](course)
+- [charges](cost) for 3 years [courses](course)
+- cost of 3 years [courses](course) 
+- [fee](cost) for three years [courses](course) 
+- [cost](cost) of three years [courses](course) 
+- what about the [fee](cost) of the [courses](course)
+- what about the estimated [cost](cost) of the [courses](course)
+- estimated [charge](cost) of the [courses](course)
+- what about the [fee](cost) of the [courses](course)
+- what about the estimated [fee](cost) of the [courses](course)
+- estimated [cost](cost) of the [courses](course)
+- tell me about the total estimated [fee](cost) of the whole [courses](course)
+
+## intent:course_query
+- what module are taught?
+- what modules are taught?
+- what subject are taught?
+- what subjects are taught?
+- module availabe
+- modules taught
+- subject availabe 
+- subjects taught 
+- how many subjects are availabe
+- how many modules are taught
+- how many module are availabe
+- how many subject are availabe
+- no. of subject
+- no. of subjects
+- number of module availabe
+- number of modules
+- subject
+- subjects availabe
+- module availabe
+- modules
+- what module are taught for BIT?
+- what modules are taugh?
+- what subject are taught for BIT?
+- what subjects are taught of?
+- modules availabe for BIT
+- modules taught of BIT
+- subject taught availabe for BIT
+- subjects taught of BIT
+- how many subjects are availabe of BIT
+- how many modules are taughtfor BIT
+- how many module are availabe of BIT
+- how many subject are for BIT
+- no. of subject of BIT
+- no. of subjects availabe for BIT
+- number of module of BIT
+- number of modulesfor BIT
+- subject of BIT
+- subjects for BIT
+- module of BIT
+- modules for BIT
+
+## intent:1course_cost
+- cost structure of first year
+- cost structure of 1st year
+- 1st year college fee
+- first year college charge
+- 1st year cost structure
+- I want to know about the fee structure of first year
+- how much do it fee for bachelor course of first year
+- how much cost will it take to complete bachelor course of first year
+- fee for course of 1st year
+- I want to know about the cost structure of 1st year
+- how much do it charge for bachelor course of 1st year
+- how much fee will it take to complete bachelor course of 1st year
+- total fee of 1st year course
+- total charges of first year course
+- how much cost for 1st year
+- how much cost for first year
+- how much college cost for 1st year
+- how much college fee for first year
+- college cost for 1st year
+- college cost for first year
+- fee for 1st year
+- charge for first year
+- fee of 1st year
+- fee of first year
+- what about the cost of the course of 1st year
+- tell me about the total estimated cost of the whole course of 1st year
+- what about the fee of the course of first year
+- tell me about the total estimated fee of the whole course of first year
+- cost structure of first yr
+- cost structure of 1st yr
+- 1st yr college fee
+- first yr college cost
+- 1st yr cost structure
+- I want to know about the fee structure of first yr
+- how much do it fee for bachelor course of first yr
+- how much charge will it take to complete bachelor course of first yr
+- fee for course of 1st yr
+- I want to know about the cost structure of 1st yr
+- how much do it charge for bachelor course of 1st yr
+- how much fee will it take to complete bachelor course of 1st yr
+- total fee of 1st yr course
+- total cost of first yr course
+- how much cost for 1st yr
+- how much cost for first yr
+- how much college charge for 1st yr
+- how much college fee for first yr
+- college cost for 1st yr
+- college cost for first yr
+- fee for 1st yr
+- cost for first yr
+- fee of 1st yr
+- fee of first yr
+- what about the cost of the course of 1st yr
+- tell me about the total estimated cost of the whole course of 1st yr
+- what about the fee of the course of first yr
+- tell me about the total estimated fee of the whole course of first yr
+
+## intent:2course_cost
+- second yr course fee
+- 2nd yr course fee
+- 2nd yr course charge
+- cost structure of second year
+- cost structure of 2nd year
+- 2nd year college fee
+- second year college charge
+- 2nd year cost structure
+- I want to know about the fee structure of second year
+- how much do it fee for bachelor course of second year
+- how much cost will it take to complete bachelor course of second year
+- fee for course of 2nd year
+- I want to know about the cost structure of 2nd year
+- how much do it charge for bachelor course of 2nd year
+- how much fee will it take to complete bachelor course of 2nd year
+- total fee of 2nd year course
+- total charge of second year course
+- how much cost for 2nd year
+- how much cost for second year
+- how much college charge for 2nd year
+- how much college fee for second year
+- college cost for 2nd year
+- college cost for second year
+- fee for 2nd year
+- charge for second year
+- fee of 2nd year
+- fee of second year
+- what about the cost of the course of 2nd year
+- tell me about the total estimated cost of the whole course of 2nd year
+- what about the fee of the course of second year
+- tell me about the total estimated fee of the whole course of second year
+- cost structure of second yr
+- cost structure of 2nd yr
+- 2nd yr college fee
+- second yr college charge
+- 2nd yr cost structure
+- I want to know about the fee structure of second yr
+- how much do it fee for bachelor course of second yr
+- how much cost will it take to complete bachelor course of second yr
+- fee for course of 2nd yr
+- I want to know about the cost structure of 2nd yr
+- how much do it cost for bachelor course of 2nd yr
+- how much fee will it take to complete bachelor course of 2nd yr
+- total fee of 2nd yr course
+- total cost of second yr course
+- how much cost for 2nd yr
+- how much cost for second yr
+- how much college cost for 2nd yr
+- how much college fee for second yr
+- college cost for 2nd yr
+- college cost for second yr
+- fee for 2nd yr
+- charges for second yr
+- fee of 2nd yr
+- fee of second yr
+- what about the cost of the course of 2nd yr
+- tell me about the total estimated cost of the whole course of 2nd yr
+- what about the fee of the course of second yr
+- tell me about the total estimated fee of the whole course of second yr
+
+## intent:3course_cost
+- cost structure of third year
+- cost structure of 3rd year
+- 3rd year college fee
+- third year college charge
+- 3rd year cost structure
+- I want to know about the fee structure of third year
+- how much do it fee for bachelor course of third year
+- how much cost will it take to complete bachelor course of third year
+- fee for course of 3rd year
+- I want to know about the cost structure of 3rd year
+- how much do it cost for bachelor course of 3rd year
+- how much fee will it take to complete bachelor course of 3rd year
+- total fee of 3rd year course
+- total charge of third year course
+- how much cost for 3rd year
+- how much cost for third year
+- how much college cost for 3rd year
+- how much college fee for third year
+- college charges for 3rd year
+- college cost for third year
+- fee for 3rd year
+- charge for third year
+- fee of 3rd year
+- fee of third year
+- what about the cost of the course of 3rd year
+- tell me about the total estimated cost of the whole course of 3rd year
+- what about the fee of the course of third year
+- tell me about the total estimated fee of the whole course of third year
+- cost structure of third yr
+- cost structure of 3rd yr
+- 3rd yr college fee
+- third yr college cost
+- 3rd yr cost structure
+- I want to know about the fee structure of third yr
+- how much do it fee for bachelor course of third yr
+- how much cost will it take to complete bachelor course of third yr
+- fee for course of 3rd yr
+- I want to know about the cost structure of 3rd yr
+- how much do it cost for bachelor course of 3rd yr
+- how much fee will it take to complete bachelor course of 3rd yr
+- total fee of 3rd yr course
+- total cost of third yr course
+- how much cost for 3rd yr
+- how much cost for third yr
+- how much college cost for 3rd yr
+- how much college fee for third yr
+- college cost for 3rd yr
+- college cost for third yr
+- fee for 3rd yr
+- charge for third yr
+- fee of 3rd yr
+- fee of third yr
+- what about the cost of the course of 3rd yr
+- tell me about the total estimated cost of the whole course of 3rd yr
+- what about the fee of the course of third yr
+- tell me about the total estimated fee of the whole course of third yr
+
+## intent:1stsem
+- what subject are there in first semester ?
+- list of 1st semester  course
+- offered modules in 1st sem
+- available modules in first sem
+- available subjects 1st sem
+- first semester  module
+- how many subject are there in first semester ?
+- how many module are to be studied in first semester ?
+- subject in 1st semester 
+- what course are offered in 1st semester ?
+- first semester  module offered
+- subject offered in first semester 
+- what module are there in first semester ?
+- first semester  module
+- how many course are there in first semester ?
+- how many module are to be studied in first semester ?
+- course in first semester 
+- what subject offered are there in 1st semester ?
+- list of 1st semester  module offered
+- list of first semester  module
+- 1st semester  subject
+- first semester  subject list
+- how many course are there in first semester ?
+- how many subject are to be studied in 1st semester ?
+- module in first semester 
+- what subject are offered in first semester ?
+- list of 1st semester  course offered
+- first semester  subject offered
+- what subject are there in 1st semester ?
+- list of 1st semester  module
+- 1st semester  course
+- 1st semester  subject list
+- how many course are there in first semester ?
+- how many subject are to be studied in first semester ?
+- module in 1st semester 
+- list of first semester  subject offered
+- first semester  course available
+- how many module are offered in first semester ?
+- subject offered in first semester 
+- what are the subject offered in 1st semester 
+- offered module in 1st semester 
+- tell me about first semester  course
+- tell me about first semester  subject offered
+- what about the module availabe in first semester 
+- eager to know about course in first semester 
+- eager to know about subject in first semester 
+- eager to know about course in first semester 
+- what subject are there in first sem ?
+- list of 1st sem  course
+- first sem  module
+- how many subject are there in first sem ?
+- how many module are to be studied in first sem ?
+- subject in 1st sem 
+- what course are offered in 1st sem ?
+- first sem  module offered
+- first sem  module
+- how many course are there in first sem ?
+- how many module are to be studied in first sem ?
+- course in first sem 
+- what subject offered are there in 1st sem ?
+- list of 1st sem  module offered
+- list of first sem  module
+- 1st sem  subject
+- first sem  subject list
+- how many course are there in first sem ?
+- how many subject are to be studied in 1st sem ?
+- module in first sem 
+- what subject are offered in first sem ?
+- list of 1st sem  course availabe
+- first sem  subject offered
+- what subject are there in 1st sem ?
+- list of 1st sem  module
+- 1st sem  course
+- 1st sem  subject list
+- how many course are there in first sem ?
+- how many subject are to be studied in first sem ?
+- module in 1st sem 
+- list of first sem  subject offered
+- first sem  course offered
+- how many module are offered in first sem ?
+- subject offered in first sem 
+- what are the subject offered in 1st sem 
+- what about the module offered in first sem 
+- eager to know about course in first sem 
+- eager to know about subject in first sem 
+- eager to know about course in first sem 
+
+## intent:2ndsem
+- what subject are there in second semester ?
+- list of 2nd semester  course
+- offered modules in 2nd sem
+- available modules in second sem
+- available subjects 2nd sem
+- second semester  module
+- how many subject are there in second semester ?
+- how many module are to be studied in second semester ?
+- subject in 2nd semester 
+- what course are offered in 2nd semester ?
+- second semester  module offered
+- subject offered in second semester 
+- what module are there in second semester ?
+- second semester  module
+- how many course are there in second semester ?
+- how many module are to be studied in second semester ?
+- course in second semester 
+- what subject offered are there in 2nd semester ?
+- list of 2nd semester  module offered
+- list of second semester  module
+- 2nd semester  subject
+- second semester  subject list
+- how many course are there in second semester ?
+- how many subject are to be studied in 2nd semester ?
+- module in second semester 
+- what subject are offered in second semester ?
+- list of 2nd semester  course offered
+- second semester  subject offered
+- what subject are there in 2nd semester ?
+- list of 2nd semester  module
+- 2nd semester  course
+- 2nd semester  subject list
+- how many course are there in second semester ?
+- how many subject are to be studied in second semester ?
+- module in 2nd semester 
+- list of second semester  subject offered
+- second semester  course available
+- how many module are offered in second semester ?
+- subject offered in second semester 
+- what are the subject offered in 2nd semester 
+- offered module in 2nd semester 
+- tell me about second semester  course
+- tell me about second semester  subject offered
+- what about the module availabe in second semester 
+- eager to know about course in second semester 
+- eager to know about subject in second semester 
+- eager to know about course in second semester 
+- what subject are there in second sem ?
+- list of 2nd sem  course
+- second sem  module
+- how many subject are there in second sem ?
+- how many module are to be studied in second sem ?
+- subject in 2nd sem 
+- what course are offered in 2nd sem ?
+- second sem  module offered
+- second sem  module
+- how many course are there in second sem ?
+- how many module are to be studied in second sem ?
+- course in second sem 
+- what subject offered are there in 2nd sem ?
+- list of 2nd sem  module offered
+- list of second sem  module
+- 2nd sem  subject
+- second sem  subject list
+- how many course are there in second sem ?
+- how many subject are to be studied in 2nd sem ?
+- module in second sem 
+- what subject are offered in second sem ?
+- list of 2nd sem  course availabe
+- second sem  subject offered
+- what subject are there in 2nd sem ?
+- list of 2nd sem  module
+- 2nd sem  course
+- 2nd sem  subject list
+- how many course are there in second sem ?
+- how many subject are to be studied in second sem ?
+- module in 2nd sem 
+- list of second sem  subject offered
+- second sem  course offered
+- how many module are offered in second sem ?
+- subject offered in second sem 
+- what are the subject offered in 2nd sem 
+- what about the module offered in second sem 
+- eager to know about course in second sem 
+- eager to know about subject in second sem 
+- eager to know about course in second sem 
+
+## intent:3rdsem
+- what subject are there in third semester ?
+- list of 3rd semester  course
+- offered modules in 3rd sem
+- available modules in third sem
+- available subjects 3rd sem
+- third semester  module
+- how many subject are there in third semester ?
+- how many module are to be studied in third semester ?
+- subject in 3rd semester 
+- what course are offered in 3rd semester ?
+- third semester  module offered
+- subject offered in third semester 
+- what module are there in third semester ?
+- third semester  module
+- how many course are there in third semester ?
+- how many module are to be studied in third semester ?
+- course in third semester 
+- what subject offered are there in 3rd semester ?
+- list of 3rd semester  module offered
+- list of third semester  module
+- 3rd semester  subject
+- third semester  subject list
+- how many course are there in third semester ?
+- how many subject are to be studied in 3rd semester ?
+- module in third semester 
+- what subject are offered in third semester ?
+- list of 3rd semester  course offered
+- third semester  subject offered
+- what subject are there in 3rd semester ?
+- list of 3rd semester  module
+- 3rd semester  course
+- 3rd semester  subject list
+- how many course are there in third semester ?
+- how many subject are to be studied in third semester ?
+- module in 3rd semester 
+- list of third semester  subject offered
+- third semester  course available
+- how many module are offered in third semester ?
+- subject offered in third semester 
+- what are the subject offered in 3rd semester 
+- offered module in 3rd semester 
+- tell me about third semester  course
+- tell me about third semester  subject offered
+- what about the module availabe in third semester 
+- eager to know about course in third semester 
+- eager to know about subject in third semester 
+- eager to know about course in third semester 
+- what subject are there in third sem ?
+- list of 3rd sem  course
+- third sem  module
+- how many subject are there in third sem ?
+- how many module are to be studied in third sem ?
+- subject in 3rd sem 
+- what course are offered in 3rd sem ?
+- third sem  module offered
+- third sem  module
+- how many course are there in third sem ?
+- how many module are to be studied in third sem ?
+- course in third sem 
+- what subject offered are there in 3rd sem ?
+- list of 3rd sem  module offered
+- list of third sem  module
+- 3rd sem  subject
+- third sem  subject list
+- how many course are there in third sem ?
+- how many subject are to be studied in 3rd sem ?
+- module in third sem 
+- what subject are offered in third sem ?
+- list of 3rd sem  course availabe
+- third sem  subject offered
+- what subject are there in 3rd sem ?
+- list of 3rd sem  module
+- 3rd sem  course
+- 3rd sem  subject list
+- how many course are there in third sem ?
+- how many subject are to be studied in third sem ?
+- module in 3rd sem 
+- list of third sem  subject offered
+- third sem  course offered
+- how many module are offered in third sem ?
+- subject offered in third sem 
+- what are the subject offered in 3rd sem 
+- what about the module offered in third sem 
+- eager to know about course in third sem 
+- eager to know about subject in third sem 
+- eager to know about course in third sem  
+
+## intent:4thsem
+- what subject are there in fourth semester ?
+- list of 4th semester  course
+- offered modules in 4th sem
+- available modules in fourth sem
+- available subjects 4th sem
+- fourth semester  module
+- how many subject are there in fourth semester ?
+- how many module are to be studied in fourth semester ?
+- subject in 4th semester 
+- what course are offered in 4th semester ?
+- fourth semester  module offered
+- subject offered in fourth semester 
+- what module are there in fourth semester ?
+- fourth semester  module
+- how many course are there in fourth semester ?
+- how many module are to be studied in fourth semester ?
+- course in fourth semester 
+- what subject offered are there in 4th semester ?
+- list of 4th semester  module offered
+- list of fourth semester  module
+- 4th semester  subject
+- fourth semester  subject list
+- how many course are there in fourth semester ?
+- how many subject are to be studied in 4th semester ?
+- module in fourth semester 
+- what subject are offered in fourth semester ?
+- list of 4th semester  course offered
+- fourth semester  subject offered
+- what subject are there in 4th semester ?
+- list of 4th semester  module
+- 4th semester  course
+- 4th semester  subject list
+- how many course are there in fourth semester ?
+- how many subject are to be studied in fourth semester ?
+- module in 4th semester 
+- list of fourth semester  subject offered
+- fourth semester  course available
+- how many module are offered in fourth semester ?
+- subject offered in fourth semester 
+- what are the subject offered in 4th semester 
+- offered module in 4th semester 
+- tell me about fourth semester  course
+- tell me about fourth semester  subject offered
+- what about the module availabe in fourth semester 
+- eager to know about course in fourth semester 
+- eager to know about subject in fourth semester 
+- eager to know about course in fourth semester 
+- what subject are there in fourth sem ?
+- list of 4th sem  course
+- fourth sem  module
+- how many subject are there in fourth sem ?
+- how many module are to be studied in fourth sem ?
+- subject in 4th sem 
+- what course are offered in 4th sem ?
+- fourth sem  module offered
+- fourth sem  module
+- how many course are there in fourth sem ?
+- how many module are to be studied in fourth sem ?
+- course in fourth sem 
+- what subject offered are there in 4th sem ?
+- list of 4th sem  module offered
+- list of fourth sem  module
+- 4th sem  subject
+- fourth sem  subject list
+- how many course are there in fourth sem ?
+- how many subject are to be studied in 4th sem ?
+- module in fourth sem 
+- what subject are offered in fourth sem ?
+- list of 4th sem  course availabe
+- fourth sem  subject offered
+- what subject are there in 4th sem ?
+- list of 4th sem  module
+- 4th sem  course
+- 4th sem  subject list
+- how many course are there in fourth sem ?
+- how many subject are to be studied in fourth sem ?
+- module in 4th sem 
+- list of fourth sem  subject offered
+- fourth sem  course offered
+- how many module are offered in fourth sem ?
+- subject offered in fourth sem 
+- what are the subject offered in 4th sem 
+- what about the module offered in fourth sem 
+- eager to know about course in fourth sem 
+- eager to know about subject in fourth sem 
+- eager to know about course in fourth sem 
+
+## intent:5thsem
+- what subject are there in fifth semester ?
+- list of 5th semester  course
+- offered modules in 5th sem
+- available modules in fifth sem
+- available subjects 5th sem
+- fifth semester  module
+- how many subject are there in fifth semester ?
+- how many module are to be studied in fifth semester ?
+- subject in 5th semester 
+- what course are offered in 5th semester ?
+- fifth semester  module offered
+- subject offered in fifth semester 
+- what module are there in fifth semester ?
+- fifth semester  module
+- how many course are there in fifth semester ?
+- how many module are to be studied in fifth semester ?
+- course in fifth semester 
+- what subject offered are there in 5th semester ?
+- list of 5th semester  module offered
+- list of fifth semester  module
+- 5th semester  subject
+- fifth semester  subject list
+- how many course are there in fifth semester ?
+- how many subject are to be studied in 5th semester ?
+- module in fifth semester 
+- what subject are offered in fifth semester ?
+- list of 5th semester  course offered
+- fifth semester  subject offered
+- what subject are there in 5th semester ?
+- list of 5th semester  module
+- 5th semester  course
+- 5th semester  subject list
+- how many course are there in fifth semester ?
+- how many subject are to be studied in fifth semester ?
+- module in 5th semester 
+- list of fifth semester  subject offered
+- fifth semester  course available
+- how many module are offered in fifth semester ?
+- subject offered in fifth semester 
+- what are the subject offered in 5th semester 
+- offered module in 5th semester 
+- tell me about fifth semester  course
+- tell me about fifth semester  subject offered
+- what about the module availabe in fifth semester 
+- eager to know about course in fifth semester 
+- eager to know about subject in fifth semester 
+- eager to know about course in fifth semester 
+- what subject are there in fifth sem ?
+- list of 5th sem  course
+- fifth sem  module
+- how many subject are there in fifth sem ?
+- how many module are to be studied in fifth sem ?
+- subject in 5th sem 
+- what course are offered in 5th sem ?
+- fifth sem  module offered
+- fifth sem  module
+- how many course are there in fifth sem ?
+- how many module are to be studied in fifth sem ?
+- course in fifth sem 
+- what subject offered are there in 5th sem ?
+- list of 5th sem  module offered
+- list of fifth sem  module
+- 5th sem  subject
+- fifth sem  subject list
+- how many course are there in fifth sem ?
+- how many subject are to be studied in 5th sem ?
+- module in fifth sem 
+- what subject are offered in fifth sem ?
+- list of 5th sem  course availabe
+- fifth sem  subject offered
+- what subject are there in 5th sem ?
+- list of 5th sem  module
+- 5th sem  course
+- 5th sem  subject list
+- how many course are there in fifth sem ?
+- how many subject are to be studied in fifth sem ?
+- module in 5th sem 
+- list of fifth sem  subject offered
+- fifth sem  course offered
+- how many module are offered in fifth sem ?
+- subject offered in fifth sem 
+- what are the subject offered in 5th sem 
+- what about the module offered in fifth sem 
+- eager to know about course in fifth sem 
+- eager to know about subject in fifth sem 
+- eager to know about course in fifth sem 
+
+## intent:6thsem
+- what subject are there in sixth semester ?
+- list of 6th semester  course
+- offered modules in 6th sem
+- available modules in sixth sem
+- available subjects 6th sem
+- sixth semester  module
+- how many subject are there in sixth semester ?
+- how many module are to be studied in sixth semester ?
+- subject in 6th semester 
+- what course are offered in 6th semester ?
+- sixth semester  module offered
+- subject offered in sixth semester 
+- what module are there in sixth semester ?
+- sixth semester  module
+- how many course are there in sixth semester ?
+- how many module are to be studied in sixth semester ?
+- course in sixth semester 
+- what subject offered are there in 6th semester ?
+- list of 6th semester  module offered
+- list of sixth semester  module
+- 6th semester  subject
+- sixth semester  subject list
+- how many course are there in sixth semester ?
+- how many subject are to be studied in 6th semester ?
+- module in sixth semester 
+- what subject are offered in sixth semester ?
+- list of 6th semester  course offered
+- sixth semester  subject offered
+- what subject are there in 6th semester ?
+- list of 6th semester  module
+- 6th semester  course
+- 6th semester  subject list
+- how many course are there in sixth semester ?
+- how many subject are to be studied in sixth semester ?
+- module in 6th semester 
+- list of sixth semester  subject offered
+- sixth semester  course available
+- how many module are offered in sixth semester ?
+- subject offered in sixth semester 
+- what are the subject offered in 6th semester 
+- offered module in 6th semester 
+- tell me about sixth semester  course
+- tell me about sixth semester  subject offered
+- what about the module availabe in sixth semester 
+- eager to know about course in sixth semester 
+- eager to know about subject in sixth semester 
+- eager to know about course in sixth semester 
+- what subject are there in sixth sem ?
+- list of 6th sem  course
+- sixth sem  module
+- how many subject are there in sixth sem ?
+- how many module are to be studied in sixth sem ?
+- subject in 6th sem 
+- what course are offered in 6th sem ?
+- sixth sem  module offered
+- sixth sem  module
+- how many course are there in sixth sem ?
+- how many module are to be studied in sixth sem ?
+- course in sixth sem 
+- what subject offered are there in 6th sem ?
+- list of 6th sem  module offered
+- list of sixth sem  module
+- 6th sem  subject
+- sixth sem  subject list
+- how many course are there in sixth sem ?
+- how many subject are to be studied in 6th sem ?
+- module in sixth sem 
+- what subject are offered in sixth sem ?
+- list of 6th sem  course availabe
+- sixth sem  subject offered
+- what subject are there in 6th sem ?
+- list of 6th sem  module
+- 6th sem  course
+- 6th sem  subject list
+- how many course are there in sixth sem ?
+- how many subject are to be studied in sixth sem ?
+- module in 6th sem 
+- list of sixth sem  subject offered
+- sixth sem  course offered
+- how many module are offered in sixth sem ?
+- subject offered in sixth sem 
+- what are the subject offered in 6th sem 
+- what about the module offered in sixth sem 
+- eager to know about course in sixth sem 
+- eager to know about subject in sixth sem 
+- eager to know about course in sixth sem  
+
+## intent:futurescope
+- what is the future scope of attending BIT course
+- future scope
+- what will be future like after studying IT
+- what will future be like choosing IT
+- how is the future of IT
+- tell me about the future scope
+- what job will I get in future studying BIT
+- what will be my future studying IT
+- why this college?
+- there are so many colleges around why is it better to choose this college?
+- will it be beneficial to join this college?
+- is it beneficial to join this college?
+- why Everest college?
+
+## intent:extra
+- I want to know if there is an [extra](extra) [co-curricular](cocu) [activity](event)
+- tell me about [extra](extra) [co-curricular](cocu) [activity](event)
+- [extra](extra) [co-curricular](cocu) [activity](event)
+- [extra](extra) [activity](event)
+- [co-curricular](cocu) [activity](event)
+
+## intent:games
+- what [game](game) does college have
+- list of [game](game)
+- list of [games](game)
+- [game](game)
+- what [game](game) are played in college
+- what [game](game) are offered
+- what [game](game) are played
+
+## intent:education_event
+- what [event](event) is organized by the college
+- what [events](event) are organized by the college
+- [events](event)
+- educational [events](event)
+- organized [event](event)
+
+## intent:teaching
+- what are [teaching](teach) [methodology](method)
+- [teaching](teach) [method](method)
+- tell me about [studying](teach)
+- how are student [taught](teach) in your college
+- what are [teaching](teach) [methodology](method)
+- [learning](teach) [methods](method)
+- tell me about [teaching](teach)
+- how are student [taught](method) in your college
+
+## intent:lab
+- how is college [lab](lab) ?
+- college [lab](lab)
+- in what condition college [lab](lab) is in 
+- tell me about college [lab](lab)
+- [lab](lab)
+- how good is [lab](lab)
+- how good is college [lab](lab)
+- how are college [lab](lab) ?
+- college [lab](lab)
+- in what condition college [lab](lab) are in 
+- tell me about college [lab](lab)
+- [lab](lab)
+- how good are [lab](lab)
+- how good are college [lab](lab)
+
+## intent:specific
+- admission
+- enrollment
+- entry
+- name
+- university
+- college
+- cost
+- costs
+- fee
+- fees
+- charge
+- charges
+
+## intent:entrance
+- entrance 
+- entrance exam
+- entrance exams
+- entry exam
+- entry exams
+
+## intent:classtiming
+- class timing
+- when is the class time
+- when does class start
+- upto when class runs for
+- upto when class run 
+- tell me the class hour
+- tell me about class time
+- class time
+- time of the classes
+
+## intent:collegetiming
+- college timing
+- when is the college time
+- when does college start
+- upto when college runs for
+- upto when college run 
+- tell me the college hour
+- tell me about college time
+- college time
+- time of the college
+
+## intent:semfee
+- 1st sem college fee
+- 2nd sem college cost
+- 3rd sem college fee
+- 4th sem college cost
+- 5th sem college fee
+- 6th sem college cost
+- 1st semester college cost
+- 2nd semester college fee
+- 3rd semester college cost
+- 4th semester college fee
+- 5th semester college cost
+- 6th semester college fee
+- 1st sem fee
+- 2nd sem cost
+- 3rd sem fee
+- 4th sem cost
+- 5th sem fee
+- 6th sem cost
+- 1st semester cost
+- 2nd semester fee
+- 3rd semester cost
+- 4th semester fee
+- 5th semester cost
+- 6th semester fee

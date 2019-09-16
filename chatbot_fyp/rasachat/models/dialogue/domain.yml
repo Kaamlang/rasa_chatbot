@@ -1,0 +1,368 @@
+%YAML 1.1
+---
+actions:
+- utter_start_begin
+- utter_greet
+- utter_greet_qsn
+- utter_greet_reply
+- utter_goodbye
+- utter_thanking
+- utter_sorry
+- utter_deny
+- utter_deny2
+- utter_superdeny
+- utter_ok
+- utter_name
+- utter_collegename
+- utter_address
+- utter_university_name
+- utter_universitydetail
+- utter_admission_cost
+- utter_admission_req
+- utter_deadline
+- utter_query
+- utter_course
+- utter_1course
+- utter_2course
+- utter_3course
+- utter_course_cost
+- utter_course_query
+- utter_1course_cost
+- utter_2course_cost
+- utter_3course_cost
+- utter_scholarship
+- utter_discount
+- utter_affiliation
+- utter_duration
+- utter_1stsem
+- utter_2ndsem
+- utter_3rdsem
+- utter_4thsem
+- utter_5thsem
+- utter_6thsem
+- utter_futurescope
+- utter_extra
+- utter_game
+- utter_education_event
+- utter_teaching
+- utter_lab
+- utter_specific
+- utter_entrance
+- utter_classtiming
+- utter_collegetiming
+- utter_moreinfo
+- utter_semfee
+config:
+  store_entities_as_slots: true
+entities:
+- cost
+- admit
+- criteria
+- time
+- course
+- subject
+- year
+- bachelor
+- program
+- offered
+- uniname
+- info
+- event
+- extra
+- cocu
+- teach
+- lab
+- game
+forms: []
+intents:
+- start_begin:
+    use_entities: true
+- greet:
+    use_entities: true
+- greet_qsn:
+    use_entities: true
+- greet_reply:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- thanking:
+    use_entities: true
+- sorry:
+    use_entities: true
+- deny:
+    use_entities: true
+- superdeny:
+    use_entities: true
+- ok:
+    use_entities: true
+- name:
+    use_entities: true
+- collegename:
+    use_entities: true
+- address:
+    use_entities: true
+- university_name:
+    use_entities: true
+- universitydetail:
+    use_entities: true
+- admission_cost:
+    use_entities: true
+- admission_req:
+    use_entities: true
+- deadline:
+    use_entities: true
+- query:
+    use_entities: true
+- course:
+    use_entities: true
+- 1course:
+    use_entities: true
+- 2course:
+    use_entities: true
+- 3course:
+    use_entities: true
+- course_cost:
+    use_entities: true
+- course_query:
+    use_entities: true
+- 1course_cost:
+    use_entities: true
+- 2course_cost:
+    use_entities: true
+- 3course_cost:
+    use_entities: true
+- scholarship:
+    use_entities: true
+- discount:
+    use_entities: true
+- affiliation:
+    use_entities: true
+- duration:
+    use_entities: true
+- 1stsem:
+    use_entities: true
+- 2ndsem:
+    use_entities: true
+- 3rdsem:
+    use_entities: true
+- 4thsem:
+    use_entities: true
+- 5thsem:
+    use_entities: true
+- 6thsem:
+    use_entities: true
+- futurescope:
+    use_entities: true
+- extra:
+    use_entities: true
+- game:
+    use_entities: true
+- education_event:
+    use_entities: true
+- teaching:
+    use_entities: true
+- lab:
+    use_entities: true
+- specific:
+    use_entities: true
+- entrance:
+    use_entities: true
+- classtiming:
+    use_entities: true
+- collegetiming:
+    use_entities: true
+- semfee:
+    use_entities: true
+slots: {}
+templates:
+  utter_1course:
+  - image: http://i67.tinypic.com/fx5e28.jpg
+    text: We offer total of 8 subjects in first year.
+  utter_1course_cost:
+  - image: http://i63.tinypic.com/mhroyo.jpg
+    text: NPR. 70,000 college fee with USD 500.
+  - image: http://i63.tinypic.com/mhroyo.jpg
+    text: It will cost NPR. 70,00 without University fee.
+  - image: http://i63.tinypic.com/mhroyo.jpg
+    text: NPR. 70,000 without University fee.
+  utter_1stsem:
+  - image: http://i68.tinypic.com/dvo4mc.jpg
+    text: We offer 4 modules.
+  utter_2course:
+  - image: http://i65.tinypic.com/2hhdpud.jpg
+    text: We offer total of 8 subjects in second year.
+  utter_2course_cost:
+  - image: http://i66.tinypic.com/21kjhcn.jpg
+    text: NPR. 70,000 college fee with USD 500.
+  - image: http://i66.tinypic.com/21kjhcn.jpg
+    text: It will cost NPR. 70,00 without University fee.
+  - image: http://i66.tinypic.com/21kjhcn.jpg
+    text: NPR. 70,000 without University fee.
+  utter_2ndsem:
+  - image: http://i68.tinypic.com/1zbaydv.jpg
+    text: We offer 4 modules.
+  utter_3course:
+  - image: http://i67.tinypic.com/2e3n815.jpg
+    text: We offer total of 4 subjects in third year
+  utter_3course_cost:
+  - image: http://i63.tinypic.com/2vbu6mb.jpg
+    text: NPR. 70,000 college fee with USD 500.
+  - image: http://i63.tinypic.com/2vbu6mb.jpg
+    text: It will cost NPR. 70,00 without University fee.
+  - image: http://i63.tinypic.com/2vbu6mb.jpg
+    text: NPR. 70,000 without University fee.
+  utter_3rdsem:
+  - image: http://i66.tinypic.com/o6h188.jpg
+    text: We offer 4 modules.
+  utter_4thsem:
+  - image: http://i65.tinypic.com/eskp3k.jpg
+    text: We offer 4 modules
+  utter_5thsem:
+  - image: http://i68.tinypic.com/acxsu0.jpg
+    text: We offer 2 modules.
+  utter_6thsem:
+  - image: http://i64.tinypic.com/1z15lhg.jpg
+    text: We offer 2 modules.
+  utter_address:
+  - text: Everest college is located in Swoyambhu, Kathmandu.
+  - text: Swoyambhu, Kathmandu.
+  utter_admission_cost:
+  - text: It will cost you NPR. 20,000.
+  - text: NPR. 20,000
+  utter_admission_req:
+  - image: http://i67.tinypic.com/hvbew0.jpg
+    text: Student should cleared +2/ A-Level study with at least 60 % in both English
+      and Maths.
+  - image: http://i67.tinypic.com/hvbew0.jpg
+    text: Student should have cleared +2/ A-Level study.
+  - image: http://i67.tinypic.com/hvbew0.jpg
+    text: Student must have secured at least 60 % in both English and Maths.
+  utter_affiliation:
+  - text: Affiliated to Bagmati University, Kathmandu
+  - text: Bagmati University, Kathmandu
+  utter_classtiming:
+  - text: Classes will run between 8:00 am to 3:00 pm.
+  utter_collegename:
+  - text: Everest college.
+  utter_collegetiming:
+  - text: College will be open from 7:00 am to 5:00 pm from Sunday to Friday.
+  utter_course:
+  - text: We offer bachelor's in Information Technology (BIT)
+  - text: Bachelor's in Information Technology (BIT)
+  - text: We are currently running Bachelor's in Information Technology (BIT)
+  utter_course_cost:
+  - image: http://i66.tinypic.com/2m6pvcz.jpg
+    text: NPR. 2,10,000 college fee with USD 15,000.
+  - image: http://i66.tinypic.com/2m6pvcz.jpg
+    text: It will cost NPR. 2,10,000 without University fee.
+  - image: http://i66.tinypic.com/2m6pvcz.jpg
+    text: NPR. 2,10,000 without University fee.
+  utter_course_query:
+  - text: Please be more specific about the year / semester.
+  - text: For which year / semester.
+  utter_deadline:
+  - text: Admission is still going on and it will close by the end of March.
+  - text: Upto end of March.
+  utter_default:
+  - text: Sorry; but I won't be able to answer your question.
+  utter_deny:
+  - text: Take your time, get refreshed and come back.
+  - text: I won't be much of help to you.
+  - text: Come back later.
+  utter_deny2:
+  - text: I have already told you I won't be much of help to you.
+  - text: Come back with fresh mind and we will talk.
+  - text: Sorry. Please visit later.
+  utter_discount:
+  - text: First come first serve. First 20 students will get 20 % discount on admission
+      fee.
+  - text: First 20 students will get 20 % discount on admission fee.
+  utter_duration:
+  - text: Program will run for 3 years.
+  - text: Course will run for 3 years.
+  - text: For 3 years
+  utter_education_event:
+  - text: Recent event was Tensforflow summit and event from LeapFrog ogranization,
+      FuseAI events and many more. For more info you can contact Student Service Department.
+      01-1234667
+  utter_entrance:
+  - text: Students who have completed their higher secondary final exams can directly
+      apply to the college with their academic certificates.
+  - text: There will be no entrance exams.
+  utter_extra:
+  - text: We have games. Different educational event are organized in a regaular basis.
+  utter_futurescope:
+  - text: Upon completion, students will be able to get into career field such as
+      Software Engineer, Web Application Developer, Mobile Application Developer,
+      Senior Database Administrator, System Analyst, Software System Developer.
+  utter_game:
+  - text: We have futsal, basketball, chess, table tennis, etc.
+  - text: Futsal, basketball, chess, table tennis, etc.
+  utter_goodbye:
+  - text: Bye
+  - text: Nice talking to you.
+  - text: See you soon
+  - text: See you
+  - text: Talk to you later.
+  - text: Goodbye
+  utter_greet:
+  - text: Hi! How are you?
+  - text: Hello! How are you?
+  - text: Hey! How are you?
+  utter_greet_qsn:
+  - text: Great ! How can I help you?
+  - text: Cool ! How can I help you?
+  - text: Amazing ! How can I help you?
+  utter_lab:
+  - text: We have well equiped lab with internet access all over the college, etc.
+  - text: Well equiped lab with internet access all over the college, etc.
+  utter_moreinfo:
+  - text: 'For more info: 01-1234567, 01.2345678.'
+  utter_name:
+  - text: You can call me Everest.
+  - text: Everest
+  - text: Everest is my name.
+  utter_ok:
+  - text: Fine
+  - text: Great
+  - text: Cool
+  - text: Ok
+  utter_query:
+  - text: Yes we offer bachelor program.
+  - text: We do.
+  - text: Yes we are running bachelor program.
+  utter_scholarship:
+  - image: http://i67.tinypic.com/xbhi81.jpg
+    text: It is matter of great concern.
+  - image: http://i67.tinypic.com/xbhi81.jpg
+    text: Have a detail look.
+  utter_semfee:
+  - text: It will cost NPR.35,000 for each semester.
+  utter_sorry:
+  - text: It's OK.
+  utter_specific:
+  - text: Please be more specific.
+  - text: It would be nice if you could be more specific.
+  utter_start_begin:
+  - text: Welcome to Everest college.
+  utter_superdeny:
+  - text: I see you already know things better than me.
+  - text: It's good for you.
+  - text: I was instructed to provide the informations.
+  utter_teaching:
+  - text: We follow LTW = Lecture, Tutorial (Interaction with tutor), Workshop(Practical
+      implementation)
+  - text: Lecture, Tutorial(Interaction with tutor), Workshop(Practical implementation)
+  utter_thanking:
+  - text: You're welcome.
+  - text: Pleasure's all mine.
+  utter_university_name:
+  - text: It is Bagmati University.
+  - text: Bagmati University
+  utter_universitydetail:
+  - text: The Bagmati University  has a long and cherished history; established in
+      2000 AD. In time, teacher training colleges and colleges of health were incorporated,
+      all of which helped to develop the university’s rich heritage and a tradition
+      of academic excellence in vocational higher education.The University is now
+      a leading university and a major player in the higher education sector, contributing
+      to knowledge transfer, economic development of soceity. It is a land of opportunity.

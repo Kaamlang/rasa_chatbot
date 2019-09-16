@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>{% block title %} {% endblock %}</title>
+
+		<!-- Google font -->
+		<link href="https://fonts.googleapis.com/css?family=Lato:700%7CMontserrat:400,600" rel="stylesheet">
+
+		<!-- Bootstrap -->
+		<link type="text/css" rel="stylesheet" href="../static/css/bootstrap.min.css"/>
+
+		<!-- Font Awesome Icon -->
+		<link rel="stylesheet" href="../static/css/font-awesome.min.css">
+
+		<!-- Custom stlylesheet -->
+		<link type="text/css" rel="stylesheet" href="../static/css/style.css"/>
+
+		<style>
+			.title{
+				color: white;
+			}
+
+			.sender .new-message{
+				color: black;
+			}
+		</style>
+
+    </head>
+    <body>
+    	{% include 'partials/nav.html' %}
+
+    	{% block content %}
+
+    	{% endblock %}
+
+    	{% include 'partials/foot.html' %}
+    </body>
+</html>

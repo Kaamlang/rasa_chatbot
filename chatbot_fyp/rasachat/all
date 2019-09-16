@@ -1,0 +1,374 @@
+intents:
+  - start_begin
+  - name
+  - greet
+  - goodbye
+  - thanking
+  - greet_qsn
+  - greet_reply
+  - course
+  - scholarship
+  - discount
+  - affiliation
+  - duration
+  - admission_cost
+  - admission_req
+  - course_cost
+  - out_of_scope
+
+actions:
+  - utter_start_begin
+  - utter_greet
+  - utter_goodbye
+  - utter_thanking
+  - utter_greet_qsn
+  - utter_greet_reply
+  - utter_course
+  - utter_scholarship
+  - utter_discount
+  - utter_affiliation
+  - utter_duration
+  - utter_admission_cost
+  - utter_admission_req
+  - utter_course_cost
+  - utter_out_of_scope
+
+# entities:
+#   -gret
+
+# slot:
+#   gret:
+#     type: text
+
+templates:
+  utter_start_begin:
+    - text: "Welcome to Everest college bot."
+
+  utter_name:
+    - text: "You can call me EVE."
+    - text: "EVE"
+    - text: "EVE is my name"
+
+  utter_greet:
+    - text: "Hey ! How are you?"
+
+  utter_thanking:
+    - text: "You're welcome."
+
+  utter_greet_qsn:
+    - text: "Great ! How can I help you?"
+    - text: "Cool ! How can I help you?"
+    - text: "Amazing ! How can I help you?"
+
+  utter_goodbye:
+    - text: "Bye"
+    - text: "Nice talking to you."
+    - text: "See you soon"
+    - text: "See you"
+    - text: "Talk to you later."
+    - text: "Goodbye"
+
+  utter_course:
+    - text: "We offer bachelor's in Information Technology (BIT) <br> Click on the link - "" "
+    - text: "Bachelor's in Information Technology (BIT) <br> Click on the link - "" "
+    - text: "We are currently running Bachelor's in Information Technology (BIT) <br> Click on the link - "" "
+
+  utter_scholarship:
+    - text: "It is matter of great concern. <br> Click on the link - "" "
+    - text: "Have a detail look. <br> Click on the link - "" "
+
+  utter_discount:
+    - text: "First come first serve. First 20 students will get 20 % discount on admission fee."
+    - text: "Contact us - 01-1234567 as soon as possible to know if you are eligible to get discount."
+    - text: "First 20 students will get 20 % discount on admission fee."
+
+  utter_affiliation:
+    - text: "Affiliated to Bagmati University, Kathmandu"
+    - text: "Bagmati University, Kathmandu"
+
+  utter_duration:
+    - text: "Program will run for 3 years"
+    - text: "3 years"
+    - text: "For 3 years"
+
+  utter_admission_cost:
+    - text: "It will cost you NPR. 20,000."
+    - text: "NPR. 20,000"
+
+  utter_admission_req:
+    - text: "Student should cleared +2/ A-Level study with at least 60 % in both English and Maths. <br> For more details: """
+    - text: "Student should have cleared +2/ A-Level study. <br> For more details: """
+    - text: "Student must have secured at least 60 % in both English and Maths. <br> For more details: """
+
+  utter_course_cost:
+    - text: "NPR. 2,10,000 college fee with USD 15,000 <br> For more information- """
+    - text: "It will cost NPR. 2,10,000 college fee without University fee. <br> Details on this link- """
+    - text: "NPR. 2,10,000 college fee without University fee. <br> Details on this link- """
+
+  utter_out_of_scope:
+    - text: Sorry, I won't be able to answer that.
+
+
+
+
+
+
+
+## intent:start_begin
+- start_begin
+
+## intent:name
+- what is your name?
+- name?
+- your name
+- what can I call you?
+- how can I type your name?
+- spelling of your name
+- how to spell your name
+
+## intent:greet
+- hey
+- hi
+- hello
+<!-- - [hey](gret)
+- [hello](gret)
+- [hey](gret)
+- [hi](gret) -->
+
+## intent:thanking
+- thankyou
+- thank you
+- I really appreciate your help
+- thank you for your help
+- thanks 
+
+## intent:greet_qsn
+- how are you?
+- how are you doing?
+- how is it going?
+- are you fine?
+- you fine?
+- you doing great?
+- doing great?
+
+## intent:greet_reply
+- fine
+- awesome
+- cool
+- amazing
+- great
+- good
+- fine, what about you?
+- awesome, what about you?
+- cool, what about you?
+- amazing, what about you?
+- great, what about you?
+- good, what about you?
+- fine, you?
+- awesome, you?
+- cool, you?
+- amazing, you?
+- great, you?
+- good, you?
+- awesome and you?
+- cool and you?
+- amazing and you?
+- great and you?
+- good and you?
+
+## intent:goodbye
+- bye
+- bye bye
+- seeya
+- see ya
+- see you
+- goodbye
+- leaving
+- heading out
+- got to go
+- going out
+- take care
+- see you later
+- see you around
+- talk to you later
+
+## intent:course
+- do you offer bachelor's?
+- do you offer bachelor's degreed program?
+- which bachelor's program is offered by the college?
+- which bachelor's degree program is offered by the college?
+- bachelor's offered
+- bachelor's programs offered
+- currently running programs
+- which program is currently being runned in college?
+- course offered 
+- course offered by the college
+- bachelor's program runned by college
+- college's bachelor's program
+- runned bachelor's program
+- operated programs in bachelor's
+- currently running program
+- currently running bachelor's degree program
+- current bachelor's program
+- bachelor's degree program
+- information related to bachelor's program
+- information related to bachelor's
+- information related to bachelor's degree
+
+## intent:scholarship
+- am I eligible to get scholarship
+- scholarship scheme
+- who can get scholarship
+- how can we get scholarship
+- how can I get scholarship
+- scholarship program
+- information about scholarship
+- I want scholarship
+- scholarship
+- scholarship policy
+- information related to scholarship
+- information related to scholarship policy
+
+
+## intent:discount
+- am I eligible to get discount
+- discount scheme
+- who can get discount
+- how can we get discount
+- how can I get discount
+- discount program
+- information about discount
+- I want discount
+- discount
+- discount policy
+- information related to discount
+- information related to discount policy
+
+## intent:affiliation
+- college affiliation
+- college's affiliation
+- from which university college has got affiliation
+- affiliation
+- in which university ABC college is affiliated to
+- in which university your college is affiliated to
+- in which university college is affiliated to
+- information related to your colleges affiliation
+- information related to colleges affiliation
+- information of affiliation of college
+- university affiliation
+
+## intent:duration
+- course duration
+- how long will the course run for
+- I want to know about the duration of course
+- I want to know about the course duration
+- duration of course
+- I want to know how long will the course run for
+- information about how long will the course run for
+- eager to know how long will the course run for
+- can you tell me how long will the course run for
+- can you tell me about course duration
+- tell me about duration of course
+- tell me about course duration
+
+## intent:admission_cost
+- admission cost
+- information related to admission cost
+- I want to know about admission cost
+- tell me about admission cost
+- can I know about admission cost
+- how much does it cost for admission
+
+## intent:admission_req
+- admission criteria
+- information related to admission criteria
+- I want to know about admission criteria
+- tell me about admission criteria
+- can I know about admission criteria
+- how can I get admission
+- I want admission
+- how to get admission
+
+## intent:course_cost
+- fee structure
+- I want to know about the fee structure
+- how much do it costs for bachelor's course
+- how much cost will it take to complete bachelor's course
+- fee for 3 yrs course
+
+## intent:out_of_scope
+- lajflasdf
+- oawerjawne
+- aobanleo
+- joasjfl
+- jpt
+- I love you
+- love
+- aalu
+- hell
+- go to hell
+- damna 
+- tuppii
+- laure
+- bal
+
+
+
+
+## start path
+* start_begin
+  - utter_start_begin
+
+## greeting path
+* greet
+  - utter_greet
+
+## say goodbye
+* goodbye
+  - utter_goodbye
+
+## thanking
+* thankyou
+  - utter_thanking
+
+## thanking1
+* greet
+  - utter_greet
+* thanyou
+  - utter_thanking
+
+## course_query path 1
+* greet
+  - utter_greet
+* greet_reply
+  - utter_greet_qsn
+* course
+  - utter_course
+* thanking
+  - utter_thanking
+* goodbye
+  - utter_goodbye
+
+## course_query path 2
+* greet
+  - utter_greet
+* course
+  - utter_course
+* thanking
+  - utter_thanking
+* goodbye
+  - utter_goodbye
+
+## course_query path 3
+* course
+  - utter_course
+* thanking
+  - utter_thanking
+* goodbye
+  - utter_goodbye
+
+## course_query path 4
+* course
+  - utter_course
+* goodbye
+  - utter_goodbye 
